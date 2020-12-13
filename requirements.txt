@@ -1,3 +1,4 @@
 numpy == 1.18.5
 matplotib == 3.2.2
 scipy == 1.5.0
+widgets == '7.5.1'
